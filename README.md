@@ -34,6 +34,7 @@ A simple, interactive job application form for web developers. Users can fill ou
    ```bash
    git clone https://github.com/yourusername/job-application-form.git
 2. Navigate to the project folder:
+   
   cd job-application-form
-3. Open index.html in your browser to start using the form.
+4. Open index.html in your browser to start using the form.
   
