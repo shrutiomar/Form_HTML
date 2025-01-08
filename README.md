@@ -36,5 +36,6 @@ A simple, interactive job application form for web developers. Users can fill ou
 2. Navigate to the project folder:
    
   cd job-application-form
-4. Open index.html in your browser to start using the form.
+  <br>
+3. Open index.html in your browser to start using the form.
   
